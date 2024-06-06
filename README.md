@@ -5,6 +5,8 @@
 This challenge consists of the development of a simple REST API in Golang, and deploying it to the cloud, AWS in my case.
 This document links all of the repositories of this project.
 
+![architecture](./.media/architecture.png "Architecture")
+
 ## Featured Repositories
 
 | Repository Name           | Link                                                |
